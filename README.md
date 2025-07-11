@@ -25,7 +25,7 @@ Sebelum memulai, pastikan Anda sudah menginstal:
 
 ## 📚 Silabus & Materi Pembelajaran
 
-Semua materi pembelajaran detail dapat diakses melalui **[Wiki Repositori ini](link-ke-wiki-anda)**.
+Semua materi pembelajaran detail dapat diakses melalui **[Wiki Repositori ini]([link-ke-wiki-anda](https://github.com/rakitcode/MiniBootcamp-DasProg/wiki))**.
 
 ## 👨‍💻 Tambahan
 Jika Anda menemukan kesalahan ketik (typo) atau ingin menyarankan perbaikan, silakan buat *Issue* atau *Pull Request*.
