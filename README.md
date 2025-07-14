@@ -1,6 +1,6 @@
 #  Mini Bootcamp: Dasar Pemrograman C 🚀
 
-Selamat datang di Mini Bootcamp Dasar Pemrograman Bahasa C! Program ini dirancang untuk pemula yang ingin memahami konsep fundamental pemrograman menggunakan salah satu bahasa paling dasar dan kuat, yaitu bahasa C.
+Selamat datang di Mini Bootcamp Dasar Pemrograman Bahasa C! Program ini dirancang untuk pemula yang ingin memahami konsep fundamental pemrograman menggunakan salah satu bahasa dasar, yaitu bahasa C.
 
 ## 📖 Deskripsi Singkat
 
@@ -8,27 +8,29 @@ Repositori ini berisi semua materi, contoh kode, dan latihan yang akan kita guna
 
 ## 🎯 Tujuan Pembelajaran
 Setelah menyelesaikan bootcamp ini, peserta diharapkan mampu:
-- Memahami konsep dasar algoritma dan flowchart.
+- Memahami konsep dasar algoritma dan pengenalan pemrograman.
 - Mengerti sintaks dasar dan struktur program C.
 - Menggunakan variabel, tipe data, dan operator.
 - Menerapkan logika percabangan dan perulangan.
-- Membuat dan menggunakan fungsi.
-- Memahami dasar-dasar array dan pointer.
+- Memahami dasar-dasar Array dan String.
 
-## 🛠️ Prasyarat
-Sebelum memulai, pastikan Anda sudah menginstal:
-1.  **Teks Editor**: [VS Code](https://code.visualstudio.com/), Sublime Text, atau lainnya.
-2.  **C Compiler**:
-    - **Windows**: Instal [MinGW-w64](https://www.mingw-w64.org/) (biasanya melalui MSYS2).
-    - **macOS**: Instal Xcode Command Line Tools dengan menjalankan `xcode-select --install` di Terminal.
-    - **Linux**: Instal `build-essential` dengan `sudo apt-get install build-essential` (untuk distro berbasis Debian/Ubuntu).
+### 📚 Navigasi Cepat
 
-## 📚 Silabus & Materi Pembelajaran
-
-Semua materi pembelajaran detail dapat diakses melalui **[Wiki Repositori ini]([link-ke-wiki-anda](https://github.com/rakitcode/MiniBootcamp-DasProg/wiki))**.
-
-## 👨‍💻 Tambahan
-Jika Anda menemukan kesalahan ketik (typo) atau ingin menyarankan perbaikan, silakan buat *Issue* atau *Pull Request*.
+| **Topik** | **Link** |
+| :--: | :--: |
+| Persiapan Awal | **[Prepare Environment](https://github.com/rakitcode/MiniBootcamp-DasProg/wiki/Prerequisite)** |
+| Materi & Silabus | **[Lihat Semua Modul di Wiki](https://github.com/rakitcode/MiniBootcamp-DasProg/wiki)** |
 
 ---
-Dibuat dengan ❤️ untuk para calon programmer.
+
+## 👨‍💻 Tambahan
+Jika Kamu menemukan kesalahan ketik (typo) atau ingin menyarankan perbaikan, silakan buat *Issue* atau *Pull Request*.
+
+Bisa juga menghubungi kami melalui DM Instagram [@rakitcode](https://www.instagram.com/rakitcode/)
+
+---
+> Salam Hangat, RakitCode Academy
+
+<p align="center">
+  <b>© 2025 Tim RakitCode Academy.</b>
+</p>
